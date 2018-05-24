@@ -279,6 +279,6 @@ StrikethroughSpa使用`StrikethroughSpan`设置删除线。
 [API 文档(自备梯子)](https://developer.android.com/reference/android/text/SpannableStringBuilder.html)
 [SpannableString与SpannableStringBuilder](http://blog.csdn.net/harvic880925/article/details/38984705)
 
-> 以上有错误之处，感谢指出
+> 转载请标明出处：http://blog.csdn.net/harvic880925/article/details/3898470
 
 
